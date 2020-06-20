@@ -1,0 +1,20 @@
+(module Layout_1.00U (layer F.Cu) (tedit 5F0BBD56)
+  (descr "MX-style keyswitch with Kailh socket mount")
+  (tags MX,cherry,gateron,kailh,pg1511,socket)
+  (attr smd)
+  (fp_text reference REF** (at 0 -8.255) (layer B.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (fp_text value "" (at 0 8.255) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.525 9.525) (end -9.525 9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer F.Fab) (width 0.15))
+  (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer F.Fab) (width 0.15))
+  (model ${KIPRJMOD}/umk_parts/3dmodels/Kailh_Socket.step
+    (offset (xyz 0 0.3 -1.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+)
