@@ -1,8 +1,32 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Battery
+D Multiple-cell battery
+K batt voltage-source cell
+F ~
+$ENDCMP
+#
+$CMP Battery_Cell
+D Single-cell battery
+K battery cell
+F ~
+$ENDCMP
+#
+$CMP CP_Small
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP Crystal_GND24_Small
 D Four pin crystal, GND on pins 2 and 4, small symbol
 K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP MSK-12C02
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
 F ~
 $ENDCMP
 #

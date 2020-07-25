@@ -96,4 +96,17 @@ C 0 0 50 0 1 0 N
 ENDDRAW
 ENDDEF
 #
+# stab
+#
+DEF stab T 0 40 Y Y 1 F N
+F0 "T" 0 100 50 H V C CNN
+F1 "stab" 0 -100 50 H I C CNN
+F2 "" 0 -200 50 H I C CNN
+F3 "" -50 0 50 H I C CNN
+DRAW
+C -50 0 50 0 1 0 N
+C 50 0 50 1 1 0 N
+ENDDRAW
+ENDDEF
+#
 #End Library
