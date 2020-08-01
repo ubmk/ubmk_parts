@@ -24,6 +24,12 @@ K quartz ceramic resonator oscillator
 F ~
 $ENDCMP
 #
+$CMP Crystal_Small
+D Two pin crystal, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
 $CMP MSK-12C02
 D Switch, single pole double throw
 K switch single-pole double-throw spdt ON-ON

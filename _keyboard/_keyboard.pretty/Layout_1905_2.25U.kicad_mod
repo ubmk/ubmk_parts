@@ -12,7 +12,7 @@
   (fp_line (start 21.43125 9.525) (end -21.43125 9.525) (layer F.Fab) (width 0.15))
   (fp_line (start 21.43125 -9.525) (end 21.43125 9.525) (layer F.Fab) (width 0.15))
   (fp_line (start -21.43125 -9.525) (end 21.43125 -9.525) (layer F.Fab) (width 0.15))
-  (model ${KIPRJMOD}/umk_parts/3dmodels/Kailh_Socket.step
+  (model ${KIPRJMOD}/ubmk_parts/3dmodels/Kailh_Socket.step
     (offset (xyz 0 0.3 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

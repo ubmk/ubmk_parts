@@ -1,4 +1,4 @@
-(module LED_0805 (layer F.Cu) (tedit 5F1407D9)
+(module LED_0805 (layer F.Cu) (tedit 5F24F1F7)
   (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "LED handsolder")
   (attr smd)

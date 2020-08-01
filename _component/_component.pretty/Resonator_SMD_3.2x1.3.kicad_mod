@@ -1,4 +1,4 @@
-(module Resonator_SMD_3.2x1.3 (layer F.Cu) (tedit 5F1408FB)
+(module Resonator_SMD_3.2x1.3 (layer F.Cu) (tedit 5F24F2A9)
   (descr "SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf")
   (tags "SMD SMT ceramic resonator filter")
   (attr smd)

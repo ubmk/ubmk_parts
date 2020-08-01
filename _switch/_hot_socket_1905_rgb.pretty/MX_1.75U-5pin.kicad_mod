@@ -63,7 +63,7 @@
   (pad 3 smd roundrect (at 2.8 4.33) (size 1.6 0.9) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25))
   (pad 5 smd roundrect (at -2.8 4.33) (size 1.6 0.9) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25))
   (pad 4 smd roundrect (at -2.8 5.83) (size 1.6 0.9) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25))
-  (model ${KIPRJMOD}/umk_parts/_switch/3dmodels/Kailh_Socket.step
+  (model ${KIPRJMOD}/ubmk_parts/_switch/3dmodels/Kailh_Socket.step
     (offset (xyz 0 0.3 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

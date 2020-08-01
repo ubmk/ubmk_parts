@@ -1,7 +1,7 @@
-(module GCT_USB4105-GF-A (layer F.Cu) (tedit 5F140835)
+(module GCT_USB4105-GF-A (layer F.Cu) (tedit 5F24F0A0)
   (descr "USB Type C")
   (attr smd)
-  (fp_text reference REF** (at 0 -5.6) (layer F.SilkS)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_text value GCT_USB4105-GF-A (at 0 4.75) (layer F.Fab) hide
@@ -38,7 +38,7 @@
   (pad B7 smd roundrect (at -0.75 -4.155) (size 0.3 1.95) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad A5 smd roundrect (at -1.25 -4.155) (size 0.3 1.95) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad B8 smd roundrect (at -1.75 -4.155) (size 0.3 1.95) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KIPRJMOD}/umk_parts/_component/3dmodels/USB4105-GF-A.step
+  (model ${KIPRJMOD}/ubmk_parts/_component/3dmodels/USB4105-GF-A.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

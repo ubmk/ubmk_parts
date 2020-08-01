@@ -1,8 +1,8 @@
-(module SW_SPST_TL3342 (layer F.Cu) (tedit 5F1408DC)
+(module SW_SPST_TL3342 (layer F.Cu) (tedit 5F24F35C)
   (descr "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
   (tags "SPST Tactile Switch")
   (attr smd)
-  (fp_text reference REF** (at 0 -3.4) (layer F.SilkS)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_text value SW_SPST_TL3342 (at 0 3.75) (layer F.Fab) hide
