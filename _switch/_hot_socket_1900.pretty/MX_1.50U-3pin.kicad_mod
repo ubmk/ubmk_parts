@@ -36,4 +36,9 @@
   (pad "" np_thru_hole circle (at -3.81 -2.54) (size 2.95 2.95) (drill 2.95) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   (pad 2 smd roundrect (at -7.56 -2.54) (size 2.55 2.5) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25))
+  (model ${KIPRJMOD}/ubmk_parts/_switch/3dmodels/Kailh_Socket.step
+    (offset (xyz 0 0.3 -1.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
 )
