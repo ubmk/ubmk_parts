@@ -36,6 +36,12 @@ K switch single-pole double-throw spdt ON-ON
 F ~
 $ENDCMP
 #
+$CMP Polyfuse_Small
+D Resettable fuse, polymeric positive temperature coefficient, small symbol
+K resettable fuse PTC PPTC polyfuse polyswitch
+F ~
+$ENDCMP
+#
 $CMP Resonator_Small
 D Three pin ceramic resonator, small symbol
 K ceramic resonator
