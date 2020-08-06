@@ -30,6 +30,12 @@ K quartz ceramic resonator oscillator
 F ~
 $ENDCMP
 #
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
 $CMP MSK-12C02
 D Switch, single pole double throw
 K switch single-pole double-throw spdt ON-ON
