@@ -96,6 +96,22 @@ C 0 0 50 0 1 0 N
 ENDDRAW
 ENDDEF
 #
+# logo
+#
+DEF logo UBMK 0 40 Y Y 1 F N
+F0 "UBMK" 0 100 50 H I C CNN
+F1 "logo" 0 -100 50 H I C CNN
+F2 "_keyboard:ubmk_logo" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 50 0 1 0 N
+S -50 -50 50 -50 0 1 0 N
+S -50 50 -50 -50 0 1 0 N
+S -50 50 50 50 0 1 0 N
+S 50 -50 50 50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # stab
 #
 DEF stab T 0 40 Y Y 1 F N
