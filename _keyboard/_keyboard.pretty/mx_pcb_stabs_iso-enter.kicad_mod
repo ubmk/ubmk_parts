@@ -1,0 +1,14 @@
+(module mx_pcb_stabs_iso-enter (layer F.Cu) (tedit 5F34D68C)
+  (descr "MX-style keyswitch")
+  (tags "Cherry MX keyswitch ISO enter PCB")
+  (fp_text reference REF** (at 2.38125 -7.874) (layer B.SilkS) hide
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
+  )
+  (fp_text value mx_pcb_stabs_iso-enter (at 2.63525 8.128) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 10.62125 -11.9) (size 4 4) (drill 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 10.62125 11.9) (size 4 4) (drill 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -4.61875 11.9) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -4.61875 -11.9) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
+)
