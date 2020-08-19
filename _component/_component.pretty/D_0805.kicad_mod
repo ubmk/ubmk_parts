@@ -1,12 +1,12 @@
-(module D_0805 (layer F.Cu) (tedit 5F24F089)
+(module D_0805 (layer F.Cu) (tedit 5F3B77A0)
   (descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "diode handsolder")
   (attr smd)
-  (fp_text reference REF** (at 0 -1.25) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -1.25) (layer F.SilkS) hide
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value D_0805 (at 0 1.5) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value D_0805 (at 0 1.25) (layer F.Fab) hide
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_line (start -0.4 0) (end -0.2 0) (layer F.SilkS) (width 0.06))
   (fp_line (start 0.2 0) (end 0.4 0) (layer F.SilkS) (width 0.06))

@@ -1,12 +1,12 @@
-(module C_0805 (layer F.Cu) (tedit 5F24F1BB)
+(module C_0805 (layer F.Cu) (tedit 5F3B789A)
   (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "capacitor handsolder")
   (attr smd)
-  (fp_text reference REF** (at 0 -1.2) (layer F.SilkS)
-    (effects (font (size 0.6 0.6) (thickness 0.1)))
+  (fp_text reference REF** (at 0 0 270) (layer F.SilkS)
+    (effects (font (size 0.4 0.4) (thickness 0.1)))
   )
-  (fp_text value C_0805 (at 0 1.5) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value C_0805 (at 0 1.25) (layer F.Fab) hide
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_line (start -1 0.6) (end -1 -0.6) (layer F.Fab) (width 0.1))
   (fp_line (start 1 -0.6) (end 1 0.6) (layer F.Fab) (width 0.1))

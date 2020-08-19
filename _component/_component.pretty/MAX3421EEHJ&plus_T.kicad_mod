@@ -1,10 +1,10 @@
-(module MAX3421EEHJ&plus_T (layer F.Cu) (tedit 5F24F410)
+(module MAX3421EEHJ&plus_T (layer F.Cu) (tedit 5F3B7931)
   (attr smd)
-  (fp_text reference REF** (at 0 -5) (layer F.SilkS)
+  (fp_text reference REF** (at 0 0) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value MAX3421EEHJ (at 0 5.25) (layer F.SilkS) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value MAX3421EEHJ (at 0 5) (layer F.SilkS) hide
+    (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
   (fp_line (start -2.1136 2.854) (end -2.854 2.854) (layer F.CrtYd) (width 0.1524))
   (fp_line (start -2.1136 4.2096) (end -2.1136 2.854) (layer F.CrtYd) (width 0.1524))
