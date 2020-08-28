@@ -1,4 +1,4 @@
-(module M2_hole_oval (layer F.Cu) (tedit 5F1BCBB7)
+(module M2_hole_oval (layer F.Cu) (tedit 5F488AD4)
   (attr virtual)
   (fp_text reference HOLE (at 0 4.5) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -6,5 +6,5 @@
   (fp_text value VAL** (at 0 -4.4) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
-  (pad "" np_thru_hole oval (at 0 0) (size 2.8 2.1) (drill oval 2.8 2.1) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole oval (at 0 0) (size 2.8 2.05) (drill oval 2.8 2.05) (layers *.Cu *.Mask))
 )
