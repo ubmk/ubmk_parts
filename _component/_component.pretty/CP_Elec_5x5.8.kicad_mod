@@ -1,4 +1,4 @@
-(module CP_Elec_5x5.8 (layer F.Cu) (tedit 5F3B77EF)
+(module CP_Elec_5x5.8 (layer F.Cu) (tedit 5F4C3F09)
   (descr "SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm")
   (tags "capacitor electrolytic")
   (attr smd)
