@@ -1,11 +1,11 @@
-(module Jumper-NC (layer F.Cu) (tedit 5F4C3F46)
+(module Jumper-NC (layer F.Cu) (tedit 5F4F87B2)
   (descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
   (tags "solder jumper open")
   (attr virtual)
   (fp_text reference REF** (at 0 -1.25) (layer F.SilkS) hide
     (effects (font (size 0.6 0.6) (thickness 0.1)))
   )
-  (fp_text value Jumper-NC (at 0 1.25) (layer F.SilkS)
+  (fp_text value Jumper-NC (at 0 1.4) (layer F.SilkS)
     (effects (font (size 0.6 0.6) (thickness 0.08)))
   )
   (fp_line (start 0.7 0.85) (end -0.7 0.85) (layer F.SilkS) (width 0.05))
