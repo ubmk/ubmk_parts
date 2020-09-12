@@ -54,6 +54,24 @@ K ceramic resonator
 F ~
 $ENDCMP
 #
+$CMP SW_DIP_x02
+D 2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+$CMP SW_DIP_x03
+D 3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+$CMP SW_DIP_x05
+D 5x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
 $CMP USBLC6-2SC6
 D Very low capacitance ESD protection diode, 2 data-line, SOT-23-6
 K usb ethernet video
