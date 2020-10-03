@@ -72,6 +72,11 @@ K dip switch
 F ~
 $ENDCMP
 #
+$CMP Transistor_NPN
+K NPN Transistor
+F https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf
+$ENDCMP
+#
 $CMP USBLC6-2SC6
 D Very low capacitance ESD protection diode, 2 data-line, SOT-23-6
 K usb ethernet video
