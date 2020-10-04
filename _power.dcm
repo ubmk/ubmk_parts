@@ -15,4 +15,9 @@ D Power symbol creates a global label with name "VCC"
 K power-flag
 $ENDCMP
 #
+$CMP VCC-IN-RGB
+D VBAT-IN-RGB
+K power-flag
+$ENDCMP
+#
 #End Doc Library
