@@ -1,4 +1,4 @@
-(module MX_1.00U-3pin (layer F.Cu) (tedit 5F62C334)
+(module MX_1.00U-3pin (layer F.Cu) (tedit 5F7F0287)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (attr smd)
