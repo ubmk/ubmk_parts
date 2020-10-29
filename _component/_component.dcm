@@ -54,6 +54,12 @@ K ceramic resonator
 F ~
 $ENDCMP
 #
+$CMP Rotary_Encoder_Switch
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
 $CMP SW_DIP_x02
 D 2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
 K dip switch
