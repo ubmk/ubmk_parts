@@ -1,4 +1,4 @@
-(module MX_Kailh-custom (layer F.Cu) (tedit 5F9A6628)
+(module MX_Kailh-custom (layer F.Cu) (tedit 5F9E341C)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (attr smd)
@@ -38,9 +38,14 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.6878 1.6878) (drill 1.6878) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.6878 1.6878) (drill 1.6878) (layers *.Cu *.Mask))
   (pad 2 smd roundrect (at -7.46 -2.74) (size 2.35 2.5) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.2))
-  (model ${KIPRJMOD}/ubmk_parts/_switch/3dmodels/Kailh_Socket.step
+  (model ${KIPRJMOD}/ubmk_parts/_standard/3dmodels/Kailh_Socket.step
     (offset (xyz 0 0.3 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
+  )
+  (model "#${KIPRJMOD}/ubmk_parts/_standard/3dmodels/Cherry_MX.stp"
+    (offset (xyz 0.3 0.3 5.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
   )
 )
