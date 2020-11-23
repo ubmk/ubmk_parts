@@ -1,4 +1,4 @@
-(module mx_pcb_stabs_6.25U (layer F.Cu) (tedit 5F07C657)
+(module mx_pcb_stabs_6.25U (layer F.Cu) (tedit 5FBB189F)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (attr smd)
